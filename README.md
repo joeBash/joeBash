@@ -6,7 +6,7 @@
 &emsp;&emsp;_Frameworks:_
     Spring (Java), Django (Python), React (JS)</br>
 &emsp;&emsp;_Languages:_
-    Go, Python (advanced)
+    Java (advanced), Python (intermediate), C/C++ (intermediate), Go (beginner)
 - 📫 **Ping me:** [e-mail](mailto:joebashour1997@gmail.com) is the fastest way to reach me
 
 #### `is_open_to_work = TRUE`
