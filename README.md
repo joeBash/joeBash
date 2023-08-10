@@ -7,9 +7,9 @@
     Spring (Java), Django (Python), React (JS)</br>
 &emsp;&emsp;_Languages:_
     Java (advanced), Python (intermediate), C/C++ (intermediate), Go (beginner)
-- 📫 **Ping me:** [e-mail](mailto:joebashour1997@gmail.com) is the fastest way to reach me
+- 📫 **Ping me:** [e-mail](mailto:hello@joebashour.ca) is the fastest way to reach me
 
-#### `is_open_to_work = TRUE`
+#### `is_open_to_work = FALSE`
 
 <!---
 Sample comment block. Not visibile.
