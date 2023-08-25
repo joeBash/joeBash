@@ -9,7 +9,7 @@
     Java (advanced), Python (intermediate), C/C++ (intermediate), Go (beginner)
 - 📫 **Ping me:** [e-mail](mailto:hello@joebashour.ca) is the fastest way to reach me
 
-#### `is_open_to_work = FALSE`
+#### `is_available_for_hire = FALSE`
 
 <!---
 Sample comment block. Not visibile.
