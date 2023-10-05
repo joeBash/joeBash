@@ -29,7 +29,8 @@ _Go (beginner)_
 
 <br>
 
-#### `isAvailableForHire = false`
+#### `isImmediatelyAvailableForHire = false`
+#### `isCasuallyOpenToOffers = true`
 
 <!---
 Sample comment block. Not visibile.
