@@ -29,7 +29,6 @@ _Go (beginner)_
 
 <br>
 
-#### `isImmediatelyAvailableForHire = false`
 #### `isCasuallyOpenToOffers = true`
 
 <!---
