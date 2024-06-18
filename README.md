@@ -9,7 +9,7 @@
 &emsp;
 Frameworks & Libraries:
 &emsp;
-_Spring Boot (Java), React.js</br>_
+_Spring Boot (Java), React.js, Vue.js, Next.js</br>_
 &emsp;
 Languages:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
