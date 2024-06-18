@@ -25,11 +25,11 @@ Languages:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
 _Go (beginner)_
 
-📫 **Ping me:** The fastest way to reach me is by email at [hello@joebashour.ca](mailto:hello@joebashour.ca)
+📫 **Ping me:** [hello@joebashour.ca](mailto:hello@joebashour.ca) (fastest channel to reach me) 
 
 <br>
 
-#### `isCasuallyOpenToOffers = true`
+### `isCasuallyOpenToOffers = true`
 
 <!---
 Sample comment block. Not visibile.
